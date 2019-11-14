@@ -1,0 +1,30 @@
+{
+  "name": "facebook-watchman-installer",
+  "version": "1.0.0",
+  "description": "Script bash to install facebook watchman on Ubuntu 18.04",
+  "main": "watchman-install.sh",
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facosta0787/facebook-watchman-installer.git"
+  },
+  "keywords": [
+    "facebook",
+    "watchman",
+    "installer",
+    "bash",
+    "script"
+  ],
+  "author": "facosta0787",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/facosta0787/facebook-watchman-installer/issues"
+  },
+  "homepage": "https://github.com/facosta0787/facebook-watchman-installer#readme",
+  "devDependencies": {
+    "all-contributors-cli": "^6.11.0"
+  }
+}
